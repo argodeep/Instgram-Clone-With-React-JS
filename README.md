@@ -3,7 +3,7 @@ A clone app for Instagram built with react as a hobby project.
 
 Change Firebase.js file credentials with your firebase credebtials from firebase console. Then start the app.
 
-The Project is not complete yet. But you see few basic fucntionality.
+The Project is not complete yet. But you see few basic functionality.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
